@@ -1,5 +1,4 @@
-﻿namespace Ticketbooking.Models
-{
+﻿namespace Ticketbooking.Models.Entities.User
     public class UserType_Permission
     {
         public int UserType_PermissionID { get; set; }
